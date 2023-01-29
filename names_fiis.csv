@@ -1,9 +1,9 @@
 ,Ticker,Setor,QuantidadeAtivos
 0,ABCP11,Shoppings,1
 1,AFHI11,Títulos e Val. Mob.,0
-2,AFOF11,Títulos e Val. Mob.,0
-3,AIEC11,Lajes Corporativas,2
-4,ALMI11,Lajes Corporativas,1
+2,AIEC11,Lajes Corporativas,2
+3,ALMI11,Lajes Corporativas,1
+4,ALZM11,Títulos e Val. Mob.,0
 5,ALZR11,Logística,15
 6,APTO11,Híbrido,0
 7,ARCT11,Híbrido,4
@@ -211,72 +211,73 @@
 209,RBRR11,Títulos e Val. Mob.,0
 210,RBRS11,Híbrido,0
 211,RBRY11,Títulos e Val. Mob.,0
-212,RBVA11,Outros,72
-213,RBVO11,Outros,0
-214,RCRB11,Lajes Corporativas,10
-215,RDPD11,Títulos e Val. Mob.,0
-216,RECR11,Títulos e Val. Mob.,0
-217,RECT11,Híbrido,8
-218,RECX11,Outros,0
-219,RELG11,Híbrido,3
-220,RFOF11,Títulos e Val. Mob.,0
-221,RMAI11,Lajes Corporativas,1
-222,RNDP11,Títulos e Val. Mob.,0
-223,RNGO11,Lajes Corporativas,3
-224,RRCI11,Títulos e Val. Mob.,0
-225,RVBI11,Títulos e Val. Mob.,0
-226,RZAG11,Títulos e Val. Mob.,0
-227,RZAK11,Títulos e Val. Mob.,0
-228,RZTR11,Híbrido,10
-229,SADI11,Títulos e Val. Mob.,0
-230,SARE11,Híbrido,3
-231,SCPF11,Shoppings,1
-232,SDIL11,Logística,5
-233,SEQR11,Outros,0
-234,SHPH11,Shoppings,1
-235,SNCI11,Títulos e Val. Mob.,0
-236,SNFF11,Títulos e Val. Mob.,0
-237,SPTW11,Lajes Corporativas,1
-238,SPVJ11,Outros,0
-239,SRVD11,Títulos e Val. Mob.,0
-240,STRX11,Híbrido,0
-241,TEPP11,Lajes Corporativas,5
-242,TGAR11,Outros,0
-243,TORD11,Outros,0
-244,TRNT11,Lajes Corporativas,1
-245,TRXF11,Outros,44
-246,URPR11,Outros,0
-247,VCJR11,Títulos e Val. Mob.,0
-248,VCRA11,Títulos e Valores Mobiliários,0
-249,VCRR11,Residencial,0
-250,VGHF11,Títulos e Val. Mob.,0
-251,VGIA11,Títulos e Val. Mob.,0
-252,VGIP11,Outros,0
-253,VGIR11,Títulos e Val. Mob.,0
-254,VIFI11,Títulos e Val. Mob.,0
-255,VILG11,Logística,16
-256,VINO11,Lajes Corporativas,9
-257,VISC11,Shoppings,15
-258,VIUR11,Títulos e Val. Mob.,6
-259,VJFD11,Híbrido,0
-260,VLOL11,Lajes Corporativas,1
-261,VOTS11,Títulos e Val. Mob.,0
-262,VRTA11,Títulos e Val. Mob.,0
-263,VSHO11,Shoppings,3
-264,VSLH11,Outros,0
-265,VTLT11,Logística,1
-266,VVPR11,Híbrido,6
-267,VXXV11,Outros,0
-268,WPLZ11,Shoppings,1
-269,WTSP11B,Híbrido,0
-270,XPCA11,Títulos e Val. Mob.,0
-271,XPCI11,Outros,0
-272,XPCM11,Lajes Corporativas,1
-273,XPHT11,Hotel,5
-274,XPIN11,Outros,5
-275,XPLG11,Logística,13
-276,XPML11,Shoppings,16
-277,XPPR11,Outros,4
-278,XPSF11,Outros,0
-279,XTED11,Lajes Corporativas,1
-280,YUFI11B,Residencial,0
+212,RBTS11,Outros,0
+213,RBVA11,Outros,72
+214,RBVO11,Outros,0
+215,RCRB11,Lajes Corporativas,10
+216,RDPD11,Títulos e Val. Mob.,0
+217,RECR11,Títulos e Val. Mob.,0
+218,RECT11,Híbrido,8
+219,RECX11,Outros,0
+220,RELG11,Híbrido,3
+221,RFOF11,Títulos e Val. Mob.,0
+222,RMAI11,Lajes Corporativas,1
+223,RNDP11,Títulos e Val. Mob.,0
+224,RNGO11,Lajes Corporativas,3
+225,RRCI11,Títulos e Val. Mob.,0
+226,RVBI11,Títulos e Val. Mob.,0
+227,RZAG11,Títulos e Val. Mob.,0
+228,RZAK11,Títulos e Val. Mob.,0
+229,RZTR11,Híbrido,10
+230,SADI11,Títulos e Val. Mob.,0
+231,SARE11,Híbrido,3
+232,SCPF11,Shoppings,1
+233,SDIL11,Logística,5
+234,SEQR11,Outros,0
+235,SHPH11,Shoppings,1
+236,SNCI11,Títulos e Val. Mob.,0
+237,SNFF11,Títulos e Val. Mob.,0
+238,SPTW11,Lajes Corporativas,1
+239,SPVJ11,Outros,0
+240,SRVD11,Títulos e Val. Mob.,0
+241,STRX11,Híbrido,0
+242,TEPP11,Lajes Corporativas,5
+243,TGAR11,Outros,0
+244,TORD11,Outros,0
+245,TRNT11,Lajes Corporativas,1
+246,TRXF11,Outros,44
+247,URPR11,Outros,0
+248,VCJR11,Títulos e Val. Mob.,0
+249,VCRA11,Títulos e Valores Mobiliários,0
+250,VCRR11,Residencial,0
+251,VGHF11,Títulos e Val. Mob.,0
+252,VGIA11,Títulos e Val. Mob.,0
+253,VGIP11,Outros,0
+254,VGIR11,Títulos e Val. Mob.,0
+255,VIFI11,Títulos e Val. Mob.,0
+256,VILG11,Logística,16
+257,VINO11,Lajes Corporativas,9
+258,VISC11,Shoppings,15
+259,VIUR11,Títulos e Val. Mob.,6
+260,VJFD11,Híbrido,0
+261,VLOL11,Lajes Corporativas,1
+262,VOTS11,Títulos e Val. Mob.,0
+263,VRTA11,Títulos e Val. Mob.,0
+264,VSHO11,Shoppings,3
+265,VSLH11,Outros,0
+266,VTLT11,Logística,1
+267,VVPR11,Híbrido,6
+268,VXXV11,Outros,0
+269,WPLZ11,Shoppings,1
+270,WTSP11B,Híbrido,0
+271,XPCA11,Títulos e Val. Mob.,0
+272,XPCI11,Outros,0
+273,XPCM11,Lajes Corporativas,1
+274,XPHT11,Hotel,5
+275,XPIN11,Outros,5
+276,XPLG11,Logística,13
+277,XPML11,Shoppings,16
+278,XPPR11,Outros,4
+279,XPSF11,Outros,0
+280,XTED11,Lajes Corporativas,1
+281,YUFI11B,Residencial,0
